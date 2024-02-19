@@ -1,3 +1,4 @@
 hello this is a sample file created during intro.
 
 this can be one of the lines to add while committing a file.
+new changes made to this file by another user.
